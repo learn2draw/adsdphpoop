@@ -8,3 +8,26 @@ footer {
 .jumbotron-fluid {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/A_Game_Of_Thrones_board_game_detail.jpg/1200px-A_Game_Of_Thrones_board_game_detail.jpg") no-repeat center center;
 }
+
+.add-user-modal {
+    width: 100%;
+    padding: 40px;
+    margin-top: 15%;
+}
+
+.add-user-modal label {
+    width: 50%;
+}
+
+.add-user-modal button {
+    width: 49.5%;
+}
+
+.add-user-modal input {
+    width: 49.3%;
+}
+
+.show {
+    display: block;
+}
+
